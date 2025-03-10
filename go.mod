@@ -1,6 +1,6 @@
 go 1.18
 
-module github.com/sei-protocol/goutils
+module github.com/she-protocol/goutils
 
 require github.com/stretchr/testify v1.8.4
 
